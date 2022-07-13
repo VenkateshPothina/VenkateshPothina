@@ -1,6 +1,6 @@
  My name is Venkatesh Pothina!😎
  
-                                                                   Hello!👋 Good to have you here!🤗 
+                                                                  👋 Good to have you here!!
 
 
 About my expertise
