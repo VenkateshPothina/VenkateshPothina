@@ -1,6 +1,8 @@
-[!MasterHead]()
-<h1 align="center">Hello there👋, I'm Venkatesh Pothina</h1>
-<h3 align="center">A passionate Firmware Engineer India</h3>
+<h3 align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+Welcome to Venkatesh Pothina Profile! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+</h3>
+
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkateshpothina&label=Profile%20views&color=0e75b6&style=flat" alt="venkateshpothina" /> </p>
@@ -15,7 +17,7 @@
 
 - 📫 How to reach me:  **venkateshpothina123@gmail.com**
 
-- ⚡ Fun fact:  **I love to travel the world!!!**
+- ⚡ Fun fact:  **I love to explore the world!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
