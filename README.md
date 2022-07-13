@@ -1,5 +1,5 @@
-[!MasterHead](http://rincondelsotfware.blogspot.com/2018/12/data-center.html)
-<h1 align="center">Hi 👋, I'm Venkatesh Pothina</h1>
+[!MasterHead]()
+<h1 align="center">Hello there👋, I'm Venkatesh Pothina</h1>
 <h3 align="center">A passionate Firmware Engineer India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on **FPGA**
 
-- 🌱 I’m currently learning **C++ Programming Language, Powershell**
+- 🌱 I’m currently learning:  **C++, Powershell**
 
-- 💬 Ask me about **C++, Python, Hardware**
+- 💬 Ask me about:  **C++, Python, Hardware**
 
-- 📫 How to reach me **venkateshpothina123@gmail.com**
+- 📫 How to reach me:  **venkateshpothina123@gmail.com**
 
-- ⚡ Fun fact **I love to travel the world!!!**
+- ⚡ Fun fact:  **I love to travel the world!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
