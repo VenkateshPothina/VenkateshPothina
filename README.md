@@ -17,7 +17,7 @@ Talking with me
 
 💬 Pronouns: He/Him
 
-https://mail.google.com/mail/u/0/#inbox
+
 
 
 
