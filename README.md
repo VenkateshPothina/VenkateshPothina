@@ -9,7 +9,7 @@ Welcome to Venkatesh Pothina Profile! <img src="https://media.giphy.com/media/12
 
 <p align="left"> <a href="https://twitter.com/impothina" target="blank"><img src="https://img.shields.io/twitter/follow/impothina?logo=twitter&style=for-the-badge" alt="impothina" /></a> </p>
 
-- 🔭 I’m currently working on **FPGA**
+- 🔭 I’m currently working on **Hardware Components**
 
 - 🌱 I’m currently learning:  **C++, Powershell**
 
