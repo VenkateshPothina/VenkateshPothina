@@ -9,11 +9,11 @@ Welcome to Venkatesh Pothina Profile! <img src="https://media.giphy.com/media/12
 
 <p align="left"> <a href="https://twitter.com/impothina" target="blank"><img src="https://img.shields.io/twitter/follow/impothina?logo=twitter&style=for-the-badge" alt="impothina" /></a> </p>
 
-- 🔭 I’m currently working on **Hardware Test Engineer**
+- 🔭 I’m currently working as a **Hardware Test Engineer**
 
-- 🌱 I’m currently learning:  **C++, Powershell**
+- 🌱 I’m currently learning:  **Embedded Programming**
 
-- 💬 Ask me about:  **C++, Python, Hardware**
+- 💬 Ask me about:  **C, C++, Python, Hardware**
 
 - 📫 How to reach me:  **venkateshpothina123@gmail.com**
 
