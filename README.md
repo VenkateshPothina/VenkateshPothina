@@ -13,7 +13,7 @@ Welcome to Venkatesh Pothina Profile! <img src="https://media.giphy.com/media/12
 
 - 🌱 I’m currently learning:  **Embedded Programming**
 
-- 💬 Ask me about:  **C, C++, Python, Hardware**
+- 💬 Ask me about:  **C, C++, Python, Embedded, Hardware**
 
 - 📫 How to reach me:  **venkateshpothina123@gmail.com**
 
